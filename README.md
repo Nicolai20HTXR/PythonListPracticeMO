@@ -1,0 +1,2 @@
+# PythonListPracticeMO
+Mirsad Opgave1
